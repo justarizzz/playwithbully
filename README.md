@@ -1,5 +1,7 @@
 ## Play with Bully
 
+[!Took this one from Gamebanana](https://github.com/justarizzz/playwithbully/blob/main/66315bd5abf9e.jpg)
+
 Игра с "This is a Bully" из игры Baldi's Basics Classic, где вам нужно ввести предметы, которые вы отдадите главному задире школы Хулигану. В игре есть пасхалки и приколы, которые вы можете сами найти! Отличной игры, и помните, что нельзя подвергаться буллингу. И берегите себя!
 
 *"Будешь пить - атятя тебе устрою! Понял?"*
